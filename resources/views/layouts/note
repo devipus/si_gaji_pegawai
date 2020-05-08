@@ -1,0 +1,11 @@
+tabel mengajar :
+id mengajar, id dosen, kode mk, semester, id jur, id klas
+
+tabel mk
+kd mk, matkul
+
+tabel jur
+id jur, jurusan
+
+table kelas
+id kelas, kelas
